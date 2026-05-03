@@ -3,9 +3,9 @@ name: recursive-context-pruning-token-budgeting
 description: "Optimizes AI agent performance by pruning redundant context, managing token usage, and enforcing ultra-concise, direct-to-value responses."
 category: prompt-engineering
 risk: safe
-source: repo
+source: self
 source_repo: Kench001/antigravity-awesome-skills
-source_type: official
+source_type: self
 date_added: "2026-05-03"
 author: Kench001
 tags: [efficiency, token-optimization, brevity, context-management]
